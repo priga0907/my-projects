@@ -1,0 +1,44 @@
+{
+  "Войти": "Login",
+  "Регистрация": "Registration",
+  "Мои бронирования": "My bookings",
+  "Настройки": "Settings",
+  "Сервис аренды велосипедов": "Bicycle rental service",
+  "240 велосипедов в Новосибирске": "240 bicycles in Novosibirsk",
+  "Выбрать велосипед": "Choose a bike",
+  "Пункты проката": "Rental points",
+
+  "Все пункты": "All points",
+  "Плахотного, 9": "Plahotny, 9",
+  "Советская, 93": "Soviet, 93",
+  "Дуси Ковальчук, 266/3": "Dusi Kovalchuk, 266/3",
+  "На карте": "On map",
+  "велосипедов": "bikes",
+
+  "Вход": "Login",
+  "Электронная почта": "Email",
+  "Пароль": "Password",
+  "Зарегистрироваться": "Register",
+
+  "Повторите пароль": "Repeat password",
+
+  "₽/мин": "RUB/min",
+  "₽": "RUB",
+  "Арендовать": "Rent",
+  "Код получения": "Receipt code",
+
+  "Время аренды": "Rental time",
+  "Сдать велосипед": "Return the bike",
+
+  "Дальше": "Next",
+
+  "Пока не бронировали": "Haven't booked yet",
+  "Велосипеды закончились": "Bicycles are over",
+
+  "Завтра": "Tomorrow",
+  "Послезавтра": "Послезавтра",
+
+  "СКБ Контур": "SKB Kontur",
+  "c 1988 года": "since 1988",
+  "Правовые документы": "Legal documents"
+}
